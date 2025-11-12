@@ -1,3 +1,4 @@
+
 <?php
 $titulo = "EvoluIA - Bem-Estar Emocional";
 ?>
